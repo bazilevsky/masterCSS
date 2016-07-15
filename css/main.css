@@ -27,7 +27,6 @@ body {
 .header-box {
 	position: relative;
 }
-
 .header-box__container {
 	height: 500px;
 	background: #272727;
@@ -36,7 +35,6 @@ body {
 	justify-content: center;
 	align-items: center;
 }
-
 .header-box__text {
 	font-family: 'Cuprum', sans-serif;
 	color: #fff;
